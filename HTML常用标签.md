@@ -15,7 +15,7 @@
             mailto:邮箱
             tel:手机号
         4. ID
-            href=#xxx  ————定位到xxx
+            href=#xxx  ————定位到xxx这个标记的位置处
     2. target的取值：
         _blank  新建标签页
         _self   当前页面
