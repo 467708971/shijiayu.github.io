@@ -46,5 +46,5 @@ ping [/t] [/a] [/n <count>] [/l <size>] [/f] [/I <TTL>] [/v <TOS>] [/r <count>] 
 如 www.baidu.com  
 其中com是顶级域名；  
 baidu.com是二级域名；  
-www.baidu.com是三级域名；
+www.baidu.com 是三级域名；  
 它们是父子关系
